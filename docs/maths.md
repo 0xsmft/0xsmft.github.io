@@ -14,7 +14,7 @@ Saturn uses non-linear non-revsered depth, this means that an object close by wi
 
 ## Use of Radians
 
-Saturn internally uses radians for measurement for angles. However, it's recommened that you stay in degrees the whole way and covert your degress into radians at the end of your calculation.
+Saturn internally uses radians for measurement for angles. However, it's recommened that you stay in degrees the whole way and convert your degrees into radians at the end of your calculation.
 
 The Entity inspector in the [SceneHierarchyPanel]() will display the rotational values as degrees.
 
