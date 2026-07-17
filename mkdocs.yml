@@ -1,9 +1,16 @@
 site_name: 0xsmft
 repo_url: https://github.com/0xsmft/Saturn-Engine
+repo_name: 0xsmft/Saturn-Engine
 theme:
   name: material
   icon:
     repo: fontawesome/brands/github
+  features:
+    - navigation.footer
 extra:
   version:
     provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/0xsmft
+  generator: false
