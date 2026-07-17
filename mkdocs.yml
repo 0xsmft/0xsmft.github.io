@@ -1,3 +1,10 @@
 site_name: 0xsmft
+repo_url: https://github.com/0xsmft/Saturn-Engine
 theme:
   name: material
+theme:
+  icon:
+    repo: fontawesome/brands/github
+extra:
+  version:
+    provider: mike
